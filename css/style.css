@@ -1,0 +1,81 @@
+body{
+background-color:black;
+}
+#tit{
+	background-color:darkblue;
+	text-align:center;
+	text-transform:uppercase;
+	text-shadow:2px 2px red;
+	color:white;
+}
+#h2{
+	text-align:center;
+	color:red;
+
+}
+#h3{
+	text-align:center;
+	color:red;
+
+}
+#mail1{
+	text-align:right;
+}
+#cor{
+	background-color:darkblue;
+	text-align:center;
+	color:white;
+}
+.para1{
+	
+	text-align:ltr;
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.udl{
+	text-decoration:underline;
+	text-align-last:justify;
+	text-align:center;
+	color:black;
+}
+.tit2{
+	background-color:darkblue;
+	text-align:center;
+	color:white;
+}
+.li1{
+	text-align:center;
+	color:darkblue;
+	color:white;
+}
+#art{
+background-color:darkblue;
+	text-align:center;
+	color:white;
+}
+.para2{
+	text-align:ltr;
+	color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tit3{
+	background-color:darkblue;
+	text-align:center;
+	color:white;
+}
+.more{
+	text-decoration:underline;
+	text-align:left;
+	color:white;
+}
+.tit4{
+	background-color:darkblue;
+	text-align:center;
+	color:white;
+}
+.more1{
+	text-decoration:underline;
+	text-align:left;
+	color:white;
+	
+}
