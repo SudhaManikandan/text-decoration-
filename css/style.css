@@ -48,29 +48,42 @@ background-color:black;
 	color:darkblue;
 	color:white;
 }
+.img1{
+	vertical-align:top;
+}
+.img2{
+	vertical-align:bottom;
+}
+.img3{
+	vertical-align:sub;
+}
+.img4{
+	vertical-align:super;
+}
+
 #art{
 background-color:darkblue;
 	text-align:center;
 	color:white;
 }
 .para2{
-	text-align:ltr;
+	direction:rtl;
 	color:white;
     font-family: Arial, Helvetica, sans-serif;
 }
 .tit3{
 	background-color:darkblue;
-	text-align:center;
+	text-align:right;
 	color:white;
 }
 .more{
 	text-decoration:underline;
-	text-align:left;
+	text-align:right;
 	color:white;
 }
 .tit4{
 	background-color:darkblue;
-	text-align:center;
+	text-align:left;
 	color:white;
 }
 .more1{
